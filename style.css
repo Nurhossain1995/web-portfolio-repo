@@ -34,7 +34,7 @@ p{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
     padding: 12px 40px;
-    border-radius: 5px;
+    border-radius: 10px;
     color:bisque;
     font-weight: 700;
 }
