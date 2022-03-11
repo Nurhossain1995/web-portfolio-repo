@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    margin-left:70px;
+}
+.circle-img{
+    margin-top:70px;
+
+    width:400px;
+    height: 400px;
+}
+.orange{
+    color:orange;
+}
+h1{
+    font-size: 50px;
+}
+h4{
+    color:salmon;
+    font-size: 25px;
+
+}
+p{
+    text-align: justify;
+
+}
+#link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 12px 40px;
+    border-radius: 5px;
+    color:bisque;
+    font-weight: 700;
+}
